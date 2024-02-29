@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=bicycle
+comment1.params=
+comment1.target=bicycle()
+comment2.params=type\ size\ status
+comment2.target=bicycle(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=void\ move()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=double\ calcTax()
+numComments=6

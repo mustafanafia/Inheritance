@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=bus
+comment1.params=
+comment1.target=bus()
+comment2.params=make\ model\ miles
+comment2.target=bus(java.lang.String,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=void\ move()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=double\ calcTax()
+numComments=6
